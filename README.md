@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am matteodev, a dumb Python and JavaScript developer, in my freetime, I do Discord bots or learn Swift. Here are some stuff you should know about me:
+I am matteodev, a dumb Python and JavaScript developer (and some other programming languages), in my freetime, I do Discord bots or learn Swift. Here are some stuff you should know about me:
 
 <p align="center">
 <a href="#">
