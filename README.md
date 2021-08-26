@@ -3,7 +3,7 @@
 I am matteodev, a dumb Python and JavaScript developer, in my freetime, I do Discord bots or learn Swift. Here are some stuff you should know about me:
 
 <a href="#">
- <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+ <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
 </a>  
 
 
