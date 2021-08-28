@@ -4,7 +4,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
 
 <p align="center">
 
-### Frameworks
+### 🧬 Frameworks:
  
 <a href="#">
  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
@@ -18,7 +18,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
     <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
 </a>
 
-### Languages
+## 🔑 Languages:
  
 <a href="#">
     <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
@@ -60,7 +60,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
     <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
 </a>
 
-### Tools
+## 🧰 Tools:
  
 <a href="#">
     <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
@@ -138,7 +138,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
     <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
 </a>
 
-### Other 
+## 💿 Other:
  
 <a href="#">
     <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
@@ -176,7 +176,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
 - ⌨️ **Programming Languages**: Python, JavaScript, Swift and HTML/CSS
 - ⛓ **Frameworks**: ReactJS
 
-### 💾 Hardware:
+### 🖨 Hardware:
 - 🧠 **CPU**: Intel Core i7-9700 @ 3.00 GHz
 - 🎚 **Mainboard**: Aorus Z390 Pro WiFi
 - 📺 **GPU**: PowerColor AMD Radeon RX 580 8GB VRAM
