@@ -171,7 +171,7 @@ I am matteodev, a dumb Python and JavaScript developer (and some other programmi
 - 🌍 **My Website**: https://matteodev.xyz/
 
 ### 💾 Software:
-- 🖥 **Operating Systems**: macOS Big Sur 11.5.2 (Hackintosh) & iOS 15
+- 🖥 **Operating Systems**: macOS Big Sur 11.6 (Hackintosh), iOS 15, Void Linux and Windows 11
 - 📡 **Shells**: bash & zsh
 - ⌨️ **Programming Languages**: Python, JavaScript, Swift and HTML/CSS
 - ⛓ **Frameworks**: ReactJS
